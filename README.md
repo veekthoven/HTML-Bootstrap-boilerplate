@@ -1,7 +1,7 @@
 # HTML Bootstrap boilerplate
 ### How to use
 1. Click the "Use this template" button above. It will create a repo under your profile.
-2. Clone the new repo create in #1
+2. Clone the new repo created in #1
 3. run `npm install`
 4. run `npm run hot`
 
